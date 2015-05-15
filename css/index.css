@@ -1,0 +1,73 @@
+body {
+	background:url('../img/bkgr.svg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-background-size: cover;
+	-moz-background-size: cover;
+}
+
+#bkgr{
+position:absolute;
+width: 100%;
+left: 0px;
+top: 0px;
+} 
+
+
+
+#icon1{
+	position: absolute;
+	width: 80px;
+	top: 400px;
+	left: 21%;
+	z-index: 3;
+}
+
+#icon2{
+	position: absolute;
+	width: 80px;
+	top: 400px;
+	left: 73%;
+	z-index: 3;
+}
+
+a {
+	text-decoration: none;
+}
+#link2 {
+	font-family: Gill Sans;
+	font-size: 20;
+	font-weight: bolder;
+	color: #2C2C2C;
+	line-height: 40px;
+	top: 500px;
+	left: 18%;
+	position: absolute;
+}
+
+#link3 {
+	font-family: Gill Sans;
+	font-size: 20;
+	font-weight: bolder;
+	color: #C1BEBF;
+	line-height: 40px;
+	top: 500px;
+	left: 70%;
+	position: absolute;
+}
+
+#text1 {
+	font-family: Gill Sans;
+	font-weight: bolder;
+	font-size: 40px;
+	line-height: 45px;
+	color: #C1BEBF;
+	position: absolute;
+	top: 10%;
+	text-align: center;
+	left: 17%;
+	z-index: 4;
+}
+
+
+
+

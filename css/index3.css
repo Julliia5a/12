@@ -1,0 +1,180 @@
+body {
+	background:url('../img/bkgr3.svg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-background-size: cover;
+	-moz-background-size: cover;
+}
+
+#bkgr{
+position:absolute;
+width: 100%;
+left: 0px;
+top: 0px;
+} 
+
+
+
+a {
+	text-decoration: none;
+}
+#link1 {
+	font-family: Gill Sans;
+	font-size: 14px;
+	font-weight: normal;
+	color: #C1BEBF;
+	line-height: 40px;
+	top: 2%;
+	left: 15%;
+	position: absolute;
+}
+#link2 {
+	font-family: Gill Sans;
+	font-size: 14px;
+	font-weight: normal;
+	color: #C1BEBF;
+	line-height: 40px;
+	top: 2%;
+	left: 27%;
+	position: absolute;
+}
+
+#link3 {
+	font-family: Gill Sans;
+	font-size: 14px;
+	font-weight: normal;
+	color: #C1BEBF;
+	line-height: 40px;
+	top: 2%;
+	left: 42%;
+	position: absolute;
+}
+
+#Dr1{
+	position: absolute;
+	width: 100px;
+	top: 30%;
+	left: 15%;
+	z-index: 3;
+}
+
+#link11 {
+	font-family: Gill Sans;
+	font-size: 14px;
+	font-weight: bolder;
+	color: #C1BEBF;
+	line-height: 40px;
+	top: 45%;
+	left: 17.5%;
+	position: absolute;
+}
+
+#Dr2{
+	position: absolute;
+	width: 100px;
+	top: 30%;
+	left: 42.5%;
+	z-index: 3;
+}
+
+#link12 {
+	font-family: Gill Sans;
+	font-size: 14px;
+	font-weight: bolder;
+	color: #C1BEBF;
+	line-height: 40px;
+	top: 45%;
+	left: 43.5%;
+	position: absolute;
+}
+#Dr3{
+	position: absolute;
+	width: 100px;
+	top: 30%;
+	left: 70%;
+	z-index: 3;
+}
+
+#link13 {
+	font-family: Gill Sans;
+	font-size: 14px;
+	font-weight: bolder;
+	color: #C1BEBF;
+	line-height: 40px;
+	top: 45%;
+	left: 71%;
+	position: absolute;
+}
+
+#Dr4{
+	position: absolute;
+	width: 100px;
+	top: 60%;
+	left: 10%;
+	z-index: 3;
+}
+
+#link14 {
+	font-family: Gill Sans;
+	font-size: 14px;
+	font-weight: bolder;
+	color: #C1BEBF;
+	line-height: 40px;
+	top: 75%;
+	left: 11%;
+	position: absolute;
+}
+#Dr5{
+	position: absolute;
+	width: 100px;
+	top: 60%;
+	left: 35%;
+	z-index: 3;
+}
+
+#link15 {
+	font-family: Gill Sans;
+	font-size: 14px;
+	font-weight: bolder;
+	color: #C1BEBF;
+	line-height: 40px;
+	top: 75%;
+	left: 35%;
+	position: absolute;
+}
+#Dr6{
+	position: absolute;
+	width: 100px;
+	top: 60%;
+	left: 60%;
+	z-index: 3;
+}
+
+#link16 {
+	font-family: Gill Sans;
+	font-size: 14px;
+	font-weight: bolder;
+	color: #C1BEBF;
+	line-height: 40px;
+	top: 75%;
+	left: 61%;
+	position: absolute;
+}
+
+#Dr7{
+	position: absolute;
+	width: 100px;
+	top: 60%;
+	left: 85%;
+	z-index: 3;
+}
+
+#link17 {
+	font-family: Gill Sans;
+	font-size: 14px;
+	font-weight: bolder;
+	color: #C1BEBF;
+	line-height: 40px;
+	top: 75%;
+	left: 87%;
+	position: absolute;
+}
